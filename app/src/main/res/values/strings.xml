@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieDbApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loadingMore">Loading more...</string>
+    <string name="timeout">Connection timed out. Try again later</string>
+    <string name="nomoreresults">No more results</string>
+    <string name="noConnection">No connection</string>
+    <string name="relatedTV">RELATED TV SHOWS</string>
+    <string name="firstAirDate">First air date:</string>
+    <string name="voteCount">votes</string>
+    <string name="type">Type:</string>
+    <string name="noOverview">No overview</string>
+</resources>
